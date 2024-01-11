@@ -17,8 +17,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://fb.com/phương nam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="phương nam" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/keovaolongnam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="keovaolongnam" height="30" width="40" /></a>
+<a href="https://fb.com/Pnamcuteeee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="phương nam" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/PhngNam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="keovaolongnam" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
